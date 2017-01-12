@@ -7,4 +7,4 @@
 
 看视频：
 
-下资料：[PDF文档](./pool/GOV01教程文本.pdf)
+下资料：[PDF文档](https://github.com/JohnsonHan/ShareCenter/blob/master/doc/footonway/pool/GOV01%E6%95%99%E7%A8%8B%E6%96%87%E6%9C%AC.pdf)
