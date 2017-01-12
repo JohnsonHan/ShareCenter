@@ -11,8 +11,9 @@
 下资料：[PDF文档](https://github.com/JohnsonHan/ShareCenter/blob/master/doc/footonway/pool/GOV01%E6%95%99%E7%A8%8B%E6%96%87%E6%9C%AC.pdf)
 
 ## 2. 常见问题
-###2017010130 FAQ总结
+每月底将本月常见问题制作成视频进行发布。
+###20170130 FAQ总结
 
-摘要
+摘要：
 
 看视频
