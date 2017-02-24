@@ -6,5 +6,6 @@
 1. Flow cytometry protocols(second edition); 2004; Springer; Teresa.S.Hawley, Robert G.Hawley; Note: Having published third edition at 2011.
 2. Practical Flow cytometry (Fourth edition); 2003; John Wiley & Sons; Howard M. Shapiro; Note:Be called as flow cytometry Bible.
 3. Current protocols in cytometry; 1998; John Wiley & Sons ; ISAC; Note:currently and continually updated;
-##上述书籍获取地址
+##上述书籍的下载地址
+
 [点击去往百度云下载](http://pan.baidu.com/s/1c1JjNmo)
