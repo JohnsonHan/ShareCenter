@@ -4,7 +4,7 @@
 2. 流式细胞术原理、操作及应用（第二版）；2010；科学出版社；曹雪涛，陈朱波。
 
 ##英文类
-1. Flow cytometry protocols(second edition); 2004; Springer; Teresa.S.Hawley, Robert G.Hawley; Note: Having published third edition at 2011.
+1. Flow cytometry protocols(second edition); 2004; Springer; Teresa S.Hawley, Robert G.Hawley; Note: Having published third edition at 2011.
 2. Practical Flow cytometry (Fourth edition); 2003; John Wiley & Sons; Howard M. Shapiro; Note:Be called as flow cytometry Bible.
 3. Current protocols in cytometry; 1998; John Wiley & Sons ; ISAC; Note:currently and continually updated;
 
