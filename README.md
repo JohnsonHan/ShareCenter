@@ -31,7 +31,7 @@ Johnson Han所有发布的资料都可以在这里溯源的，这里是“仓库
 
 因此，注意屏幕的蓝色字体，那代表着超链接，代表着有具体的资料可以获取哦。
 ####4. 如何支持Johnson ShareCenter的发展？
-购买[BD bioscience的产品](http://www.bdbiosciences.com/cn/home)，“流式抗体都用BD牌儿、人人都卖Fortessa玩儿~”
+购买[BD bioscience的产品](http://www.bdbiosciences.com/cn/home)，“流式抗体都用BD牌儿、人人都买Fortessa玩儿~”
 
 为了尽量保持中立性，Johnson不接受捐赠。Johnson是有固定工作的，而且很喜欢这份能与人分享知识又能赚钱的工作——流式技术支持。当然为了让“东家”日益兴旺、小哥我一直能有这么好玩的工作，我会对BD产品做适度宣传——例如，讲解流式细胞仪时用BD的设备当案例，引用数据时首选BD产品做出的数据。当然，客观上，BD确实为流式细胞术教育做出了很大的贡献。
 
