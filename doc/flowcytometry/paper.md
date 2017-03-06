@@ -15,7 +15,7 @@
 ###3. Standardization of Flow Cytometry Assays
 （1）Assay Portability on the BD FACSVerse™ System. BD Biosciences. 2012.[PDF File](http://pan.baidu.com/s/1pLe2CrD)
 
-（2）Standardizing Application Setup Across Multiple Flow Cytometers Using BD FACSDiva™ Version 6 Software. BD Biosciences. 2012.[PDF File](http://pan.baidu.com/s/1hr4PdQW)
+（2）Standardizing Application Setup Across Multiple Flow Cytometers Using BD FACSDiva™ Version 6 Software. BD Biosciences. 2012.[PDF File](http://pan.baidu.com/s/1gfeIPA7)
 
 ##Classification two: Based on BD instrument
 ###1. BD Accuri C6/Plus
