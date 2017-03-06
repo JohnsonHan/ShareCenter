@@ -6,13 +6,13 @@ BD是Johnson所在职的公司，从1973年开始致力于流式技术的开发�
 点击查看Johnson的[老东家](about%20BD.md)。
 
 ##流式资料分享
-1.书籍
+1.[Books](book.md)
 
-[去看看有哪些书籍](book.md)
+2.[Good Papers For Flow Cytometry](paper.md)
 
-2.讲座提及
+3.讲座提及
 
 查看讲座历史
 
-3.好的流式交流网站
+4.好的流式交流网站
 
