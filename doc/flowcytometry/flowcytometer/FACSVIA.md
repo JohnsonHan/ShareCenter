@@ -17,7 +17,7 @@
 
 ——解释： 可以清晰的看到他的市场定位——替代BD FACSCalibur
 
-（2）.BD FACSVia™ 产品说明书:
+（2）.BD FACSVia™ 产品说明书:http://pan.baidu.com/s/1gfBUcAf
 
 （3）. http://www.bdbiosciences.com/eu/instruments/clinical/cell-analyzers/bd-facsvia/m/3694812/overview
 
