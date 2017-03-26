@@ -9,6 +9,8 @@ BD是Johnson所在职的公司，从1973年开始致力于流式技术的开发�
 
 (1). [BD Accuri C6](flowcytometer/c6.md)
 
+(2). [BD FACSVia™ System](flowcytometer/FACSVIA.md)
+
 ## 流式资料分享
 1.[Books](book.md)
 
