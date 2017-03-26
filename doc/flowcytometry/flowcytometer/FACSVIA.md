@@ -20,10 +20,10 @@
 
 （1）.510(k)BD FACSVia™ System with BD Leucocount Reagent Assay: http://pan.baidu.com/s/1c1FhLTI
 
-——解释： 可以清晰的看到他的市场定位——替代BD FACSCalibur
+ 解释： 可以清晰的看到他的市场定位——替代BD FACSCalibur™。
 
 （2）.BD FACSVia™ 产品说明书:http://pan.baidu.com/s/1gfBUcAf
 
 （3）. http://www.bdbiosciences.com/eu/instruments/clinical/cell-analyzers/bd-facsvia/m/3694812/overview
 
-——解释： 通过BD bioscience Europe website了解更多。
+ 解释： 通过BD bioscience Europe website了解更多。
