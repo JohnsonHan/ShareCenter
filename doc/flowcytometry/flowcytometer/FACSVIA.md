@@ -3,6 +3,8 @@
 返回[ 至 **流式主题**](../facscontent.md)
 
 # BD FACSVia™ System
+## 介绍
+
 同一款机器，应用于科研的叫BD Accuri™ C6 Plus，应用于临床的叫BD FACSVia™ System，所以是一对双胞胎，晒张双胞胎的照片：
 ![晒张双胞胎的照片](VC.jpg)
 
